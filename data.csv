@@ -1,12 +1,215 @@
-id,title,date,q3,lower,q1,upper
-S006,Di padre in figlio,1946-04-01,34,12,17,34
-S026,Il bosco degli animali,1948-04-01,16,0,0,36
-S030,Pranzo con un pastore,1948-09-01,12,11,12,35
-S054,La formica argentina,1952-10-01,11,8,11,35
-S067,L'entrata in guerra,1953-08-01,12,2,6,36
-S120,Un segno nello spazio,1964-11-01,12,-3,-3,35
-S134,Mitosi,1967-01-01,8,-2,-2,35
-S139,"Il sangue, il mare",1967-07-01,36,-3,-3,36
-S147,Tempesta solare,1968-11-01,12,-3,-3,35
-S160,La corsa delle giraffe,1975-08-01,-2,-2,0,7
-S191,La contemplazione delle stelle,1983-08-01,-2,-2,0,15
+ID_racconto,titolo_racconto,date,q1,q3,lower,upper
+S001,Passatempi,1943-04-01,29,18,16,36
+S002,Dieci soldi in plastilina,1943-04-01,0,0,0,34
+S003,Invece era un'altra,1943-04-01,12,0,0,12
+S004,Angoscia in caserma,1945-12-01,8,11,6,35
+S005,Andato al comando,1946-01-01,17,36,7,36
+S006,Di padre in figlio,1946-04-01,17,34,12,34
+S007,Paura sul sentiero,1946-06-01,17,16,7,27
+S008,E il settimo si riposò,1946-06-01,0,8,0,30
+S009,Uomo nei gerbidi,1946-06-01,17,18,5,31
+S010,Campo di mine,1946-08-01,30,36,7,36
+S011,I fratelli Bagnasco,1946-09-01,30,12,12,34
+S012,Ragionamento del cugino,1946-09-01,12,19,4,36
+S013,Cinque dopodomani: guerra finita!,1946-11-01,12,19,12,30
+S014,Alba sui rami nudi,1947-01-01,27,34,5,35
+S015,Come non fui Noè (Buon a nulla),1947-01-01,30,4,4,30
+S016,Ultimo viene il corvo,1947-01-01,30,36,7,36
+S017,Visti alla mensa,1947-01-01,31,12,5,31
+S018,L'occhio del padrone,1947-03-01,27,12,5,31
+S019,Come un volo d'anitre,1947-05-01,32,35,3,36
+S020,La fame a Bévera,1947-05-01,6,36,6,36
+S021,Furto in una pasticceria,1947-06-01,29,16,8,35
+S022,Un bastimento carico di granchi,1947-07-01,14,14,14,34
+S023,I figli poltroni,1948-01-01,30,11,11,31
+S024,Il giardino incantato,1948-02-01,14,14,14,30
+S025,Impiccagione di un giudice,1948-02-01,12,36,7,36
+S026,Il bosco degli animali,1948-04-01,0,16,0,36
+S027,Si dorme come cani,1948-06-01,12,16,11,34
+S028,Com'era grande il mare,1948-06-01,17,35,10,35
+S029,Il gatto e il poliziotto,1948-08-01,12,12,10,31
+S030,Pranzo con un pastore,1948-09-01,12,12,11,35
+S031,Voglia di mare,1948-10-01,0,12,0,12
+S032,Isabella e Fioravanti,1948-10-01,1,16,1,31
+S033,Chi ha messo la mina nel mare,1948-11-01,5,11,5,35
+S034,Dollari e vecchie mondane,1948-12-01,14,12,10,31
+S035,Freddo a Napoli,1949-01-01,10,12,7,35
+S036,Lasciare Anna,1949-04-01,0,14,0,35
+S037,"Un pomeriggio, Adamo",1949-07-01,30,34,23,34
+S038,La casa degli alveari,1949-07-01,7,7,7,7
+S039,La stessa cosa del sangue,1949-07-01,20,14,6,35
+S040,Attesa della morte in un albergo,1949-07-01,12,11,6,30
+S041,Uno dei tre è ancora vivo,1949-07-01,10,11,6,35
+S042,L'avventura di un soldato,1949-07-01,31,12,10,33
+S043,Desiderio in novembre,1949-07-01,0,14,0,34
+S044,Lettera ad Amelia sui dischi volanti,1950-04-01,7,7,7,7
+S045,Storia del soldato che portò il cannone a casa,1950-08-01,18,12,5,35
+S046,"Pesci grossi, pesci piccoli",1950-09-01,14,16,5,35
+S047,Cimitero di biciclette,1950-11-01,0,12,0,35
+S048,Mai nessuno degli uomini lo seppe,1950-11-01,29,18,5,35
+S049,Il reggimento smarrito,1951-07-01,17,12,10,17
+S050,L'avventura di una bagnante,1951-08-01,35,12,7,36
+S051,Un compagno venuto da lontano,1952-06-01,12,-2,-2,35
+S052,Un bel gioco dura poco,1952-06-01,14,12,12,34
+S053,Funghi in città,1952-09-01,14,18,11,30
+S054,La formica argentina,1952-10-01,11,11,8,35
+S055,Il piccione comunale,1952-10-01,11,18,11,30
+S056,La pietanziera,1952-10-01,11,18,11,31
+S057,Gli occhi del nemico,1952-11-01,12,8,8,35
+S058,La fabbrica occupata,1952-12-01,12,5,0,31
+S059,La ragazza licenziata,1952-12-01,6,11,5,31
+S060,Le disgrazie di un paese,1953-01-01,0,11,0,35
+S061,Il bosco sull'autostrada,1953-02-01,14,16,11,30
+S062,La cura delle vespe,1953-02-01,30,18,11,30
+S063,La storia di Kim-Ghi-U,1953-04-01,0,16,0,31
+S064,Paese infido,1953-04-01,10,20,10,35
+S065,Gli avanguardisti a Mentone,1953-05-01,11,12,5,30
+S066,L'aria buona,1953-07-01,27,18,11,30
+S067,L'entrata in guerra,1953-08-01,6,12,2,36
+S068,L'avventura di un impiegato,1953-08-01,16,12,11,31
+S069,Un paese disgraziato,1953-10-01,0,3,0,34
+S070,Il generale in biblioteca,1053-10-01,14,11,10,27
+S071,La fabbrica nella montagna,1954-02-01,18,19,3,36
+S072,Le notti dell'UNPA,1954-05-01,27,8,2,34
+S073,La bomba addormentata nel bosco,1954-06-01,-2,19,-2,36
+S074,Libertà! Libertà!,1954-08-01,0,16,0,34
+S075,I mozzatori di nasi,1954-08-01,34,34,5,34
+S076,Dove va l'avvoltoio?,1954-08-01,3,36,3,36
+S077,Il dittatore,1954-09-01,12,4,4,14
+S078,Lo jus primae noctis,1954-09-01,14,12,12,18
+S079,L'adultera,1954-09-01,0,12,0,35
+S080,La lente d'ingrandimento,1954-10-01,36,18,5,36
+S081,I marziani,1954-10-01,3,19,3,19
+S082,La domenica delle follie,1954-12-01,0,0,0,12
+S083,Il coniglio velenoso,1954-12-01,14,18,11,35
+S084,L'avventura di un fotografo,1955-04-01,12,35,7,35
+S085,Un viaggio con le mucche,1956-01-01,14,12,11,30
+S086,Luna e gnac,1957-05-01,12,18,11,27
+S087,La gran bonaccia delle Antille,1957-07-01,27,12,0,27
+S088,La speculazione edilizia,1957-09-01,17,12,0,35
+S089,Dialogo sul satellite,1958-03-01,10,19,-2,19
+S090,Monologo notturno d'un nobile scozzese,1958-05-01,7,27,7,27
+S091,Una bella giornata di marzo,1958-06-01,12,36,10,36
+S092,La gallina di reparto,1958-07-01,0,36,0,36
+S093,La notte dei numeri,1958-07-01,8,25,8,35
+S094,L'avventura di un lettore,1958-08-01,17,7,5,34
+S095,La nuvola di smog,1958-09-01,18,11,5,35
+S096,La signora Paulatim,1958-09-01,1,12,1,35
+S097,L'avventura di un viaggiatore,1958-10-01,11,12,5,30
+S098,La villeggiatura in panchina,1958-11-01,14,18,11,30
+S099,Va' così che vai bene,1958-11-01,11,34,5,34
+S100,Un letto di passaggio,1958-11-01,20,19,11,31
+S101,L'avventura di un miope,1958-11-01,12,12,3,35
+S102,L'avventura di una moglie,1958-11-01,12,7,7,30
+S103,L'avventura di due sposi,1958-11-01,18,11,6,31
+S104,L'avventura di un poeta,1958-04-01,17,12,5,34
+S105,L'avventura di uno sciatore,1959-05-01,6,19,6,31
+S106,La strada di san Giovanni,1962-01-01,-2,8,-2,31
+S107,Diario in clinica,1963-04-01,30,12,-2,31
+S108,Marcovaldo al supermarket,1963-10-01,12,20,10,20
+S109,La pioggia e le foglie,1963-10-01,27,18,11,30
+S110,La fermata sbagliata,1963-11-01,11,35,10,35
+S111,"Fumo, vento e bolle di sapone",1963-11-01,27,10,10,34
+S112,"Un sabato di sole, sabbia e sonno",1963-11-01,27,18,11,30
+S113,La città tutta per lui,1963-11-01,10,12,8,30
+S114,Il giardino dei gatti ostinati,1963-11-01,30,4,4,35
+S115,I figli di Babbo Natale,1963-11-01,14,8,8,27
+S116,Dov'è più azzurro il fiume,1963-11-01,12,18,11,30
+S117,La città smarrita nella neve,1963-11-01,11,18,11,30
+S118,La distanza della Luna,1964-11-01,-3,19,-3,35
+S119,Sul far del giorno,1964-11-01,-3,3,-3,35
+S120,Un segno nello spazio,1964-11-01,-3,12,-3,35
+S121,Tutto in un punto,1964-11-01,-3,3,-3,13
+S122,Senza colori,1965-04-01,-3,19,-3,31
+S123,Fino a che dura il Sole,1965-04-01,-3,7,-3,15
+S124,Lo zio acquatico,1965-05-01,-3,19,-3,31
+S125,La Luna come un fungo,1965-05-01,-3,7,-3,34
+S126,Giochi senza fine,1965-10-01,-3,21,-3,35
+S127,I meteoriti,1965-10-01,-3,11,-3,31
+S128,La forma dello spazio,1965-11-01,-3,4,-3,35
+S129,Quanto scommettiamo,1965-11-01,-3,12,-3,26
+S130,I Dinosauri,1965-11-01,-3,30,-3,35
+S131,Gli anni-luce,1965-11-01,-3,11,-3,35
+S132,La spirale,1965-11-01,-3,3,-3,35
+S133,Ti con zero,1966-11-01,0,35,-2,35
+S134,Mitosi,1967-01-01,-2,8,-2,35
+S135,L'inseguimento,1967-05-01,0,36,-2,36
+S136,I cristalli,1967-06-01,-3,-2,-3,34
+S137,L'origine degli Uccelli,1967-07-01,-3,-2,-3,35
+S138,La memoria del mondo,1967-07-01,0,36,0,36
+S139,"Il sangue, il mare",1967-07-01,-3,36,-3,36
+S140,Il guidatore notturno,1967-07-01,0,11,0,35
+S141,La molle Luna,1967-10-01,-3,-3,-3,35
+S142,Meiosi,1967-10-01,7,7,7,7
+S143,Morte,1967-10-01,7,7,7,7
+S144,Il conte di Montecristo,1967-10-01,0,35,0,35
+S145,Le figlie della Luna,1968-05-01,-3,4,-3,36
+S146,Il cielo di pietra,1968-11-01,-3,12,-3,35
+S147,Tempesta solare,1968-11-01,-3,12,-3,35
+S148,Le conchiglie e il tempo,1968-11-01,-3,7,-3,18
+S149,La decapitazione dei capi,1969-08-01,10,8,0,35
+S150,Dall'opaco,1971-06-01,7,7,7,7
+S151,"Il nome, il naso",1972-11-01,8,36,8,36
+S152,La taverna dei destini incrociati,1973-10-01,29,12,-3,36
+S153,Ricordo di una battaglia,1974-04-01,-2,7,-2,36
+S154,Autobiografia di uno spettatore,1974-11-01,7,7,-2,20
+S155,La pompa di benzina,1974-12-01,12,8,7,31
+S156,La glaciazione,1975-04-01,12,8,8,33
+S157,L'uomo di Neanderthal,1975-05-01,0,12,0,36
+S158,Montezuma,1975-05-01,30,12,6,36
+S159,Prima che tu dica pronto,1975-07-01,25,18,6,25
+S160,La corsa delle giraffe,1975-08-01,0,-2,-2,7
+S161,Del mordersi la lingua,1975-08-01,0,-2,-2,7
+S162,Il fischio del merlo,1975-08-01,0,-2,-2,31
+S163,Del prendersela coi giovani,1975-08-01,0,-2,-2,14
+S164,Lettura di un'onda,1975-08-01,0,-2,-2,15
+S165,La pantofola spaiata,1975-09-01,0,-2,-2,9
+S166,Un chilo e mezzo di grasso d'oca,1976-01-01,0,-2,-2,15
+S167,Altre città (per Cesare Peverelli),1976-05-01,1,11,1,12
+S168,Serpenti e teschi,1976-07-01,0,-2,-2,34
+S169,Il richiamo dell'acqua,1976-12-01,7,11,6,12
+S170,L'aiola di sabbia,1977-01-01,0,-2,-2,15
+S171,La poubelle agréée,1977-02-01,0,-2,-2,27
+S172,Il seno nudo,1977-08-01,0,-2,-2,15
+S173,Il crollo del tempo (si alcuni disegni di Saul Steinberg),1977-10-01,10,10,0,18
+S174,Parafrasi (per Lucio del Pezzo),1978-04-01,8,35,1,35
+S175,Lo specchio e il bersaglio,1978-12-01,10,10,9,31
+S176,La coscienza a posto (apologo sull'onestà nel paese dei corrotti),1980-03-01,0,11,0,11
+S177,Quattro favole d'Esopo per Valerio Adami,1980-05-01,34,18,3,34
+S178,Il gorilla albino,1980-05-01,0,-2,-2,9
+S179,L'altra Euridice,1980-09-01,0,12,0,35
+S180,Essere pietra (per Alberto Magnelli),1981-07-01,7,8,7,8
+S181,Le memorie di casanova,1982-08-01,0,7,0,34
+S182,L'invasione degli storni,1981-12-01,0,-2,-2,25
+S183,Il silenzio e la città (per Fabio Borbottoni),1982-01-01,3,8,0,35
+S184,L'occhio e i pianeti,1982-06-01,0,-2,-2,14
+S185,Sapore Sapere (Sotto il sole giaguaro),1982-06-01,-3,8,-3,36
+S186,Il mondo guarda il mondo,1982-07-01,0,-2,-2,15
+S187,La pancia del geco,1982-08-01,0,-2,-2,14
+S188,Quattro studi dal vero alla maniera di Domenico Gnoli,1983-05-01,7,7,7,7
+S189,Viaggio nelle città di de Chirico,1983-07-01,10,12,5,30
+S190,La spada del sole,1983-07-01,0,-2,-2,12
+S191,La contemplazione delle stelle,1983-08-01,0,-2,-2,15
+S192,Gli amori delle tartarughe,1983-11-01,0,-2,-2,9
+S193,Il prato infinito,1983-11-01,0,-2,-2,15
+S194,Luna di pomeriggio,1983-11-01,0,-2,-2,7
+S195,Dal terrazzo,1983-11-01,0,-2,-2,12
+S196,Il museo dei formaggi,1983-11-01,0,-2,-2,15
+S197,Il marmo e il sangue,1983-11-01,0,-2,-2,14
+S198,L'ordine degli squamati,1983-11-01,0,-2,-2,12
+S199,Il modello dei modelli,1983-11-01,0,-2,-2,15
+S200,L'universo come specchio,1983-11-01,0,-2,-2,14
+S201,Come imparare a essere morto,1983-11-01,14,36,0,36
+S202,L'ultimo canale,1984-01-01,14,34,7,34
+S203,Il ricordo è bendato (per Leonardo Cremonini),1984-06-01,7,6,0,35
+S204,Un re in ascolto,1984-08-01,27,5,0,34
+S205,Il niente e il poco,1984-09-01,0,12,0,35
+S206,L'implosione,1984-09-01,-3,12,-3,12
+V001,Il sentiero dei nidi di ragno,1947-10-01,34,11,-1,36
+V003,Il visconte dimezzato,1952-02-01,12,12,-2,36
+V005,Il barone rampante,1957-06-01,34,-2,-2,36
+V008,Il cavaliere inesistente,1959-11-01,29,-3,-3,35
+V009,La giornata d'uno scrutatore,1963-02-01,17,7,5,34
+V018,Le città invisibili,1972-11-01,-3,-3,-3,1
+V019,Il castello dei destini incrociati,1973-10-01,29,12,-3,36
+V021,Se una notte d'inverno un viaggiatore,1979-06-01,-2,-2,-2,36
